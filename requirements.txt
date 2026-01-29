@@ -1,0 +1,15 @@
+# PySpark Heart Disease Analysis - Requirements
+
+# Core dependency
+pyspark>=3.5.0
+
+# Optional: For better DataFrame display
+pandas>=1.5.0
+
+# Optional: For data visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Optional: For additional data processing
+numpy>=1.23.0
+
