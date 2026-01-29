@@ -223,5 +223,5 @@ For issues or questions, please open an issue in the repository.
 
 ---
 
-**Note**: Ensure that the Heart_Disease_Prediction.csv file is properly formatted with headers matching the column names expected in the analysis code.
+**Note**: Ensure that the Heart_Disease_Prediction.csv file is properly formatted with headers matching the column names expected in the analysis code and put the correct path in path in starting of code.
 
